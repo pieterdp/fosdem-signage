@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="48"
+   width="48"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="alarm_FILL0_wght400_GRAD0_opsz48.svg"
+   inkscape:export-filename="/home/pieter/Workspace/FOSDEM/fosdem-signage/template/icons/alarm_FILL0_wght400_GRAD0_opsz48.png"
+   inkscape:export-xdpi="4096"
+   inkscape:export-ydpi="4096"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="12.791667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-width="1536"
+     inkscape:window-height="796"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M23.95 43.9q-3.7 0-6.975-1.4-3.275-1.4-5.7-3.825-2.425-2.425-3.85-5.7Q6 29.7 6 25.95q0-3.7 1.425-6.975 1.425-3.275 3.85-5.725 2.425-2.45 5.7-3.85Q20.25 8 23.95 8q3.7 0 6.975 1.4 3.275 1.4 5.725 3.85 2.45 2.45 3.85 5.725 1.4 3.275 1.4 6.975 0 3.75-1.4 7.025-1.4 3.275-3.85 5.7Q34.2 41.1 30.925 42.5q-3.275 1.4-6.975 1.4Zm0-17.85ZM30 34.1l2.1-2.1-6.5-6.5V16h-3v10.7ZM10.7 4.65l2.1 2.1-8.2 7.9-2.1-2.1Zm26.5 0 8.2 7.9-2.1 2.1-8.2-7.9ZM23.95 40.9q6.25 0 10.6-4.35t4.35-10.6q0-6.25-4.35-10.6T23.95 11q-6.25 0-10.6 4.35T9 25.95q0 6.25 4.35 10.6t10.6 4.35Z"
+     id="path2" />
+</svg>
