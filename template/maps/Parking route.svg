@@ -25,7 +25,7 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.54698373"
-     inkscape:cx="122.48993"
+     inkscape:cx="210.24391"
      inkscape:cy="619.7625"
      inkscape:window-width="1536"
      inkscape:window-height="796"
@@ -5262,10 +5262,16 @@ AAAAAAAAAAAAAAAAJIDEOwAAAAAAAAAAAAAAAAAAEvD/oFqHvL+KV7QAAAAASUVORK5CYII=
 "
        id="image892"
        x="-3.312746"
-       y="58.100323" />
+       y="58.100323"
+       inkscape:export-filename="/home/pieter/Workspace/FOSDEM/fosdem-signage/template/maps/parking-route.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#800080;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Send);marker-mid:url(#Arrow1Send)"
        d="m 31.75,66.145832 h 21.166666 l 52.916664,13.229167 60.85417,2.645833 v 82.020828 l -34.39584,13.22917 -29.10416,7.9375"
-       id="path931" />
+       id="path931"
+       inkscape:export-filename="/home/pieter/Workspace/FOSDEM/fosdem-signage/template/maps/parking-route.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
   </g>
 </svg>
