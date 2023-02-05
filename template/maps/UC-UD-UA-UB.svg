@@ -95,8 +95,7 @@
   <g
      inkscape:label="Kaart"
      inkscape:groupmode="layer"
-     id="layer1"
-     sodipodi:insensitive="true">
+     id="layer1">
     <image
        width="275.336"
        height="152.65401"
@@ -800,7 +799,10 @@ SUVORK5CYII=
 "
        id="image1585"
        x="-32.702202"
-       y="72.172997" />
+       y="72.172997"
+       inkscape:export-filename="/home/pieter/Workspace/FOSDEM/fosdem-signage/template/maps/UC-UD-UA-UB.png"
+       inkscape:export-xdpi="123.86"
+       inkscape:export-ydpi="123.86" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -810,47 +812,65 @@ SUVORK5CYII=
        style="fill:none;stroke:#800080;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send)"
        d="m 42.333333,243.41667 0,-84.66667"
        id="path1625"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/pieter/Workspace/FOSDEM/fosdem-signage/template/maps/UC-UD-UA-UB.png"
+       inkscape:export-xdpi="123.86"
+       inkscape:export-ydpi="123.86" />
     <path
        style="fill:none;stroke:#800080;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send)"
        d="m 42.333333,190.5 95.249997,0"
        id="path1627"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/pieter/Workspace/FOSDEM/fosdem-signage/template/maps/UC-UD-UA-UB.png"
+       inkscape:export-xdpi="123.86"
+       inkscape:export-ydpi="123.86" />
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,25.97531,6.8089205)"
        id="text7435"
-       style="font-size:48px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect7437)"><tspan
+       style="font-size:48px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect7437)"
+       inkscape:export-filename="/home/pieter/Workspace/FOSDEM/fosdem-signage/template/maps/UC-UD-UA-UB.png"
+       inkscape:export-xdpi="123.86"
+       inkscape:export-ydpi="123.86"><tspan
          x="200"
          y="682.46875"
-         id="tspan25193"><tspan
+         id="tspan25312"><tspan
            style="font-family:'Frutiger LT Std';-inkscape-font-specification:'Frutiger LT Std';fill:#800080"
-           id="tspan25191">UA UB</tspan></tspan></text>
+           id="tspan25310">UA UB</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-6.065319,-5.315828)"
        id="text7435-6"
-       style="font-size:48px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect7437-3);fill:#800080"><tspan
+       style="font-size:48px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect7437-3);fill:#800080"
+       inkscape:export-filename="/home/pieter/Workspace/FOSDEM/fosdem-signage/template/maps/UC-UD-UA-UB.png"
+       inkscape:export-xdpi="123.86"
+       inkscape:export-ydpi="123.86"><tspan
          x="200"
          y="682.46875"
-         id="tspan25197"><tspan
+         id="tspan25316"><tspan
            style="stroke:#800080"
-           id="tspan25195">UD</tspan></tspan></text>
+           id="tspan25314">UD</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-2.5859099,58.704837)"
        id="text7435-6-5"
-       style="font-size:48px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect7437-3-7);fill:#800080"><tspan
+       style="font-size:48px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect7437-3-7);fill:#800080"
+       inkscape:export-filename="/home/pieter/Workspace/FOSDEM/fosdem-signage/template/maps/UC-UD-UA-UB.png"
+       inkscape:export-xdpi="123.86"
+       inkscape:export-ydpi="123.86"><tspan
          x="200"
          y="682.46875"
-         id="tspan25201"><tspan
+         id="tspan25320"><tspan
            style="stroke:#800080"
-           id="tspan25199">UC</tspan></tspan></text>
+           id="tspan25318">UC</tspan></tspan></text>
     <circle
        style="fill:none;stroke:#800080;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
        id="path25046"
        cx="42.585068"
        cy="220.97942"
-       r="7.9375" />
+       r="7.9375"
+       inkscape:export-filename="/home/pieter/Workspace/FOSDEM/fosdem-signage/template/maps/UC-UD-UA-UB.png"
+       inkscape:export-xdpi="123.86"
+       inkscape:export-ydpi="123.86" />
   </g>
 </svg>
